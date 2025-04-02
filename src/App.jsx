@@ -1,5 +1,5 @@
 import './App.css'
-import Navbar from './components/NavBar'
+import Navbar from './components/Navbar'
 import Hero from './components/Hero'
 import CompanyLogo from './components/CompanyLogo'
 import PurposeSection from './components/PurposeSection'
