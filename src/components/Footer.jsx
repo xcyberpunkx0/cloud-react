@@ -51,7 +51,7 @@ const Footer = () => {
             >
               <div className="w-4 h-4 bg-blue-600 rounded-full opacity-75"></div>
               <div className="w-4 h-4 bg-red-500 rounded-full -ml-2"></div>
-              <span className="text-xl font-medium ml-1">CloudSculpts</span>
+              <span className="text-xl font-medium ml-1">Variable</span>
             </motion.div>
             <motion.p 
               variants={fadeIn('up', 0.6)}
@@ -142,7 +142,7 @@ const Footer = () => {
               variants={fadeIn('right', 1.0)}
               className="text-gray-600 text-sm"
             >
-              Copyright © {new Date().getFullYear()} CloudSculpts
+              Copyright © {new Date().getFullYear()} Variable
             </motion.p>
             <motion.p 
               variants={fadeIn('left', 1.0)}

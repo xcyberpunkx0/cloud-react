@@ -35,7 +35,7 @@ const PurposeSection = () => {
               variants={textVariant(0.5)}
               className="text-3xl md:w-4/5 md:text-4xl font-bold text-gray-900"
             >
-              At CloudSculpts, we redefine Success
+              At Variable, we redefine Success
             </motion.h2>
           </motion.div>
 

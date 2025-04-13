@@ -38,7 +38,7 @@ const Hero = () => {
           whileInView="show"
           className="text-gray-600 text-lg md:text-xl max-w-xl"
         >
-          Elevate your workforce management with CloudSculpts and unlock the power of Truely intelligent, seamless integration applications.
+          Elevate your workforce management with Variable and unlock the power of Truely intelligent, seamless integration applications.
         </motion.p>
 
         <motion.div 
